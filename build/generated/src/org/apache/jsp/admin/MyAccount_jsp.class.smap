@@ -1,0 +1,28 @@
+SMAP
+MyAccount_jsp.java
+JSP
+*S JSP
+*F
++ 0 adminHeader.jsp
+admin/adminHeader.jsp
++ 1 MyAccount.jsp
+admin/MyAccount.jsp
++ 2 footer.jsp
+admin/footer.jsp
+*L
+1,65:57
+66:122,3
+67,3:125
+70:128,3
+71,3:131
+74:134,3
+75,33:137
+1#1,21:169
+22,2:15
+23,3:190
+26,24:194
+49,44:218
+93:262,3
+94,64:265
+1#2,96:328
+*E
